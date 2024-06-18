@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Civil & Environmental Engineering, Massachusetts Institute of Technology, 12/2024 (expected)
+* M.S. in Civil & Environmental Engineering, Carnegie Mellon University, 2017
+* B.S. in Water Supply and Sewerage Engineering, Shenyang Jianzhu University, 2016
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer
+  * R Language
+  * Python
+  * Linux
+  * High-Performance Computing
+  * Raspberry Pi Image Systel Setup
+  * Cellpose
+  * Imagej
+* Biology
+  * Drought study
+  * RNASequencing
+  * Allele Specific Expression
+  * Metabolites Assay
+  * Plant Photosynthesis and Gas-exchange Measurement (Li-COR)
+  * Hydraulic Potential Measurement
+  * Genetic crossing
+* Analytical
+  * Bioinformatics
+  * Genomics
+  * Transcriptomic Study
+  * Graphical Models
+  * Co-Expression Network Analysis
+  * Machine Learning Applications
+  * Statistical Analysis
 
 Publications
 ======
@@ -59,6 +60,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards&Honors
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Student Fellowship award at Abdul Latif Jameel Water & Food Systems Lab (J-WAFS) at MIT 09/2023 - 12/2023
+* Department scholarship at CMU 08/2016 - 12/2017;
+* Outstanding Graduate, Shenyang Jianzhu University 2016;
+* Outstanding Student Scholarships, 8 times during undergraduate 2012 - 2016                                                                                                                                          
+Leadership experience and training
+======
+* Participant and LEAPS Fellow, Leadership and Professional Strategies (LEAPS) programs (8.396/8.397), MIT, Spring 2024
+  
+Scientific communication and outreach
+======
+* Volunteer in Boston Public Library Science Outreach Program, Boston, Massachusetts, US 3/2024-4/2024
+* Volunteer in Arnold Arboretum Summer Institute 2022, Boston, Massachusetts, US 8/2022
