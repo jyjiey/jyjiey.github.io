@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil & Environmental Engineering, Massachusetts Institute of Technology, 12/2024 (expected)
+* Ph.D in Civil & Environmental Engineering, Massachusetts Institute of Technology, 2024 (expected)
 * M.S. in Civil & Environmental Engineering, Carnegie Mellon University, 2017
 * B.S. in Water Supply and Sewerage Engineering, Shenyang Jianzhu University, 2016
   
