@@ -65,7 +65,8 @@ Awards&Honors
 * Graduate Student Fellowship award at Abdul Latif Jameel Water & Food Systems Lab (J-WAFS) at MIT 09/2023 - 12/2023
 * Department scholarship at CMU 08/2016 - 12/2017;
 * Outstanding Graduate, Shenyang Jianzhu University 2016;
-* Outstanding Student Scholarships, 8 times during undergraduate 2012 - 2016                                                                                                                                          
+* Outstanding Student Scholarships, 8 times during undergraduate 2012 - 2016
+                                                                                                
 Leadership experience and training
 ======
 * Participant and LEAPS Fellow, Leadership and Professional Strategies (LEAPS) programs (8.396/8.397), MIT, Spring 2024
