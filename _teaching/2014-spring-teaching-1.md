@@ -4,7 +4,7 @@ collection: teaching
 type: "Traveling Research Environmental Experience (MIT )"
 permalink: /teaching/2014-spring-teaching-1
 venue: "MIT, Civil and Environmental Engineering Undergraduate Student Field Study Class"
-date: 2022-1
+date: 2022-1-08
 location: "Hawaii, USA"
 ---
 
