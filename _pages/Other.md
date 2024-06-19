@@ -7,4 +7,4 @@ redirect_from:
   - /Other.html
 ---
 
-Other than research, I also love rock climbing!<br/><img src='/images/500x300.png'>"
+Other than research, I also love rock climbing!<br/><img src='/images/500x300.png'>
