@@ -13,7 +13,7 @@ Hi I’m Jie Yun, a final year graduate student in Dave Des Marais Lab in Civil 
 PhD thesis
 ======
 Systems Analysis of Plant Responses to Dehydration:
-1. Understanding genotype by environment effects of gene regulation network between two genotypes in <i>Brachypodium distachyon</i> under soil dry-down stress
+1. [Understanding genotype by environment effects of gene regulation network between two genotypes in <i>Brachypodium distachyon</i> under soil dry-down stress](https://news.mit.edu/2021/interdisciplinary-research-climate-resilient-crops-0917)
 2. Study of gene regulation of carbon allocation strategy under drought at grain filling stage between two species (perennial and annual) in <i>Brachypodium</i>
 3. The comparison of leaf elongation of eight species in Pooideae family affected under drought, including the domesticated and wild species of barley, oat and wheat, and <i>Brachypodium</i>
 
