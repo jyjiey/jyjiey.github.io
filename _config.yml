@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jie Yun / Personal Website"
+title                    : "Jie Yun / About Me"
 title_separator          : "-"
 name                     : &name "Jie Yun"
 description              : &description "Graduate student in Civil and Environmental Engineering at MIT studying on plant and environment interaction"
