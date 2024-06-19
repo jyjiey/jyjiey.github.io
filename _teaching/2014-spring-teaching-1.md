@@ -8,4 +8,3 @@ date: 2022-1-03
 location: "Hawaii, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
