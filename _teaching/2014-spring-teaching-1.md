@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - [Traveling Research Environmental Experience (MIT)](https://cee.mit.edu/trex_1091/)"
+title: "Teaching Assistant - Traveling Research Environmental Experience (MIT)(https://cee.mit.edu/trex_1091/)"
 collection: teaching
 type: "Undergraduate Student Field Study Class"
 permalink: /teaching/2014-spring-teaching-1
