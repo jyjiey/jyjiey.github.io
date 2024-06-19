@@ -1,10 +1,9 @@
 ---
-title: "Mentoring experience"
+title: "Mentor - [MIT MINI UROP (Undergraduate Research Opportunities Program)](https://news.mit.edu/2024/first-year-students-hands-on-research-experience-supportive-peer-community-0301)"
 collection: teaching
-type: "MIT mini-UROP"
+type: "Research"
 permalink: /teaching/2014-spring-teaching-1
-venue: "MIT, Civil and Environmental Engineering"
-date: 2024-1-8
-location: "Cambridge, MA, USA"
+venue: "Civil and Environmental Engineering, MIT"
+date: 2024-1-10
+location: "Cambridge, MA"
 ---
-
