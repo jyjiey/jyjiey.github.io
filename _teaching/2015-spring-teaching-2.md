@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Grader - Numerical Methods"
 collection: teaching
-type: "Numerical Methods"
+type: "Graduate level course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "CMU, Department"
+venue: "Mechanical Engineering, CMU"
 date: 2017-9-01
 location: "Pittsburgh, USA"
 ---
