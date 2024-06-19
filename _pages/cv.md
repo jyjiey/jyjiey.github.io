@@ -17,7 +17,7 @@ Education
 * M.S. in Civil & Environmental Engineering, Carnegie Mellon University, 2017
 * B.S. in Water Supply and Sewerage Engineering, Shenyang Jianzhu University, 2016
 
-Awards&Honors
+Awards & Honors
 ======
 * [Graduate Student Fellowship award at Abdul Latif Jameel Water & Food Systems Lab (J-WAFS) at MIT 09/2023 - 12/2023](https://news.mit.edu/2023/mit-phd-students-honored-j-wafs-fellows-0413)
 * Department scholarship at CMU 08/2016 - 12/2017
