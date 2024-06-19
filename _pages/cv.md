@@ -63,13 +63,13 @@ Teaching
 Awards&Honors
 ======
 * [Graduate Student Fellowship award at Abdul Latif Jameel Water & Food Systems Lab (J-WAFS) at MIT 09/2023 - 12/2023](https://news.mit.edu/2023/mit-phd-students-honored-j-wafs-fellows-0413)
-* Department scholarship at CMU 08/2016 - 12/2017;
-* Outstanding Graduate, Shenyang Jianzhu University 2016;
+* Department scholarship at CMU 08/2016 - 12/2017
+* Outstanding Graduate, Shenyang Jianzhu University 2016
 * Outstanding Student Scholarships, 8 times during undergraduate 2012 - 2016
                                                                                                 
 Leadership experience and training
 ======
-* Participant and LEAPS Fellow, Leadership and Professional Strategies (LEAPS) programs (8.396/8.397), MIT, Spring 2024
+* [Participant and LEAPS Fellow, Leadership and Professional Strategies (LEAPS) programs (8.396/8.397), MIT, Spring 2024](https://physics.mit.edu/academic-programs/subjects/mitleaps/)
   
 Scientific communication and outreach
 ======
