@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I’m Jie Yun, a 6th year graduate student in Dave Des Marais Lab in Civil and Environmental Engineering at MIT. My research focuses on understanding how plants respond to drought stress, especially how different genotypes or species respond to drought differently through the understanding of their gene regulation networks. The goal is to understand how environmental factors shape plant populations and communities, with a focus on how this happened in the past and how they could evolve in the future. I plan to graduate this December and I’m currently looking for jobs/postdoc!
+Hi I’m Jie Yun, a final year graduate student in Dave Des Marais Lab in Civil and Environmental Engineering at MIT. My research focuses on understanding how plants respond to drought stress, especially how different genotypes or species respond to drought differently through the understanding of their gene regulation networks. The goal is to understand how environmental factors shape plant populations and communities, with a focus on how this happened in the past and how they could evolve in the future. I plan to graduate this December and I’m currently in job market!
 
 
 PhD thesis
