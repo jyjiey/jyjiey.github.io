@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Civil & Environmental Engineering, Massachusetts Institute of Technology, 2024 (expected)
+  * Advisor: Prof. David Des Marais
+  * Related graduate course work: Systems Biology, Statistic Computation & Applications, Graphical Models, Evolutionary & Quantative Genomics, Plants and Climate, Land Water Food and Climate, Resilience of Living Systems to Environmental Change
 * M.S. in Civil & Environmental Engineering, Carnegie Mellon University, 2017
 * B.S. in Water Supply and Sewerage Engineering, Shenyang Jianzhu University, 2016
   
