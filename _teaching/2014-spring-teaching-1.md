@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - [Traveling Research Environmental Experience (MIT)](https://cee.mit.edu/trex_1091/)"
 collection: teaching
-type: "Traveling Research Environmental Experience (MIT )"
+type: "Undergraduate Student Field Study Class"
 permalink: /teaching/2014-spring-teaching-1
-venue: "MIT, Civil and Environmental Engineering Undergraduate Student Field Study Class"
-date: 2022-1-08
+venue: "Civil and Environmental Engineering, MIT"
+date: 2022-1-03
 location: "Hawaii, USA"
 ---
 
