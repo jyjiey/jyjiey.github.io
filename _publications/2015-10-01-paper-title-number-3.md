@@ -6,5 +6,5 @@ excerpt: 'Looking at GxE in gene regulation network'
 date: 2024-6-17
 venue: 'bioRxiv preprint'
 paperurl: 'https://doi.org/10.1101/2024.06.17.597683'
-citation: 'Yun, Jie, Angela Burnett, Alistair Rogers, David L. Des Marais. (2024). &quot;Genetic Diversity In Gene Regulatory Interactions Underlies The Response To Soil Drying In The Model Grass Brachypodium Distachyon.&quot; bioRxiv doi: ...'
+citation: 'Yun, Jie, Angela Burnett, Alistair Rogers, David L. Des Marais. (2024). &quot;Genetic Diversity In Gene Regulatory Interactions Underlies The Response To Soil Drying In The Model Grass Brachypodium Distachyon.&quot; bioRxiv doi:10.1101/2024.06.17.597683'
 ---
