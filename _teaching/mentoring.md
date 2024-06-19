@@ -1,10 +1,9 @@
 ---
-title: "Mentoring experience"
+title: "Mentor - MIT UROP (Undergraduate Research Opportunities Program)"
 collection: teaching
-type: "MIT UROP"
+type: "Research"
 permalink: /teaching/2014-spring-teaching-1
-venue: "MIT, Civil and Environmental Engineering"
+venue: "Civil and Environmental Engineering, MIT"
 date: 2019-2-1
-location: "Cambridge, MA, USA"
+location: "Cambridge, MA"
 ---
-
