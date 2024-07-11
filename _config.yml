@@ -12,7 +12,7 @@ title                    : "Jie Yun / About me"
 title_separator          : "-"
 name                     : &name "Jie Yun"
 description              : &description "Graduate student in Civil and Environmental Engineering at MIT studying on plant and environment interaction"
-url                      : https://jyjiey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.jieyun.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jyjiey/jyjiey.github.io"
 
